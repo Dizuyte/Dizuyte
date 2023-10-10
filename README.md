@@ -1,16 +1,33 @@
-### Hi there 👋
+![Animated GIF](https://media.giphy.com/media/mJhRSYXxzq6CA0ldkh/giphy.gif)
 
-<!--
-**Dizuyte/Dizuyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'll only ever do ESP because Aimbotters are gay and Glow is just bad looking
+### All my project that interfers with others programs are/will be external
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👷‍♂️ My actual projects
+* Apex cheat
+* General Cheating Overlay
+* Game & Engine reverse Engineering 
+# 📁 Repositery 
+* 
+* 
+* 
+*
+*
+#
+# 🔮 Future project 
+* Rainbow Six Siege wallhack
+* Minecraft Ghost and Hacked Client
+* CS2 External ESP (not decided yet)
+<br></br>
+<br></br>
+
+# 🌱 I’m currently learning C++ and C
+<br></br>
+<br></br>
+# 🤔 I’m looking for help with drivers hijacking and D3D
+<br></br>
+<br></br>
+# 📫 How to reach me : @ohdizuytee on Twitter 
+
+
